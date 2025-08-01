@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\HotelManagementArjun\\hotel managment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{464C43D2-822A-47B1-B12D-7216541CECDD}|HotelManagment.csproj|c:\\projects\\hotelmanagementarjun\\hotel managment\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464C43D2-822A-47B1-B12D-7216541CECDD}|HotelManagment.csproj|solutionrelative:controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464C43D2-822A-47B1-B12D-7216541CECDD}|HotelManagment.csproj|c:\\projects\\hotelmanagementarjun\\hotel managment\\controllers\\model\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464C43D2-822A-47B1-B12D-7216541CECDD}|HotelManagment.csproj|solutionrelative:controllers\\model\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464C43D2-822A-47B1-B12D-7216541CECDD}|HotelManagment.csproj|c:\\projects\\hotelmanagementarjun\\hotel managment\\controllers\\model\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464C43D2-822A-47B1-B12D-7216541CECDD}|HotelManagment.csproj|solutionrelative:controllers\\model\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464C43D2-822A-47B1-B12D-7216541CECDD}|HotelManagment.csproj|c:\\projects\\hotelmanagementarjun\\hotel managment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{464C43D2-822A-47B1-B12D-7216541CECDD}|HotelManagment.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464C43D2-822A-47B1-B12D-7216541CECDD}|HotelManagment.csproj|c:\\projects\\hotelmanagementarjun\\hotel managment\\hotel managment.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{464C43D2-822A-47B1-B12D-7216541CECDD}|HotelManagment.csproj|solutionrelative:hotel managment.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocationRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\HotelManagementArjun\\hotel managment\\Controllers\\Model\\LocationRepository.cs",
+              "RelativeDocumentMoniker": "Controllers\\Model\\LocationRepository.cs",
+              "ToolTip": "C:\\Projects\\HotelManagementArjun\\hotel managment\\Controllers\\Model\\LocationRepository.cs",
+              "RelativeToolTip": "Controllers\\Model\\LocationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:42:10.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Projects\\HotelManagementArjun\\hotel managment\\Controllers\\Model\\Location.cs",
+              "RelativeDocumentMoniker": "Controllers\\Model\\Location.cs",
+              "ToolTip": "C:\\Projects\\HotelManagementArjun\\hotel managment\\Controllers\\Model\\Location.cs",
+              "RelativeToolTip": "Controllers\\Model\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:42:01.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Locationcontroller.cs",
+              "DocumentMoniker": "C:\\Projects\\HotelManagementArjun\\hotel managment\\Controllers\\Locationcontroller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Locationcontroller.cs",
+              "ToolTip": "C:\\Projects\\HotelManagementArjun\\hotel managment\\Controllers\\Locationcontroller.cs",
+              "RelativeToolTip": "Controllers\\Locationcontroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:41:56.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\HotelManagementArjun\\hotel managment\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\HotelManagementArjun\\hotel managment\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-28T07:41:52.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "hotel managment.http",
+              "DocumentMoniker": "C:\\Projects\\HotelManagementArjun\\hotel managment\\hotel managment.http",
+              "RelativeDocumentMoniker": "hotel managment.http",
+              "ToolTip": "C:\\Projects\\HotelManagementArjun\\hotel managment\\hotel managment.http",
+              "RelativeToolTip": "hotel managment.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-28T07:41:45.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
